@@ -1,6 +1,8 @@
-# Alexandria
+# 📜 Alexandria
 
 Alexandria is an AI-powered writing tool designed to help you generate high-quality articles from your insights, context, and preferred writing style. The app features a modern, responsive interface with a three-panel editor and a live article preview. Built with a React frontend and a Python FastAPI backend, Alexandria streamlines the process of turning your ideas into polished written content.
+
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/d5e021f6-f886-4985-8614-1657dcb03b00" />
 
 ## Quick Start (Recommended)
 
@@ -27,8 +29,7 @@ Before running the setup script, complete these steps:
    ./start.sh
    ```
 
-- The backend will be available at [http://localhost:8000](http://localhost:8000)
-- The frontend will be available at [http://localhost:3000](http://localhost:3000)
+- UI is available at [http://localhost:3000](http://localhost:3000)
 
 ## Features
 - **Three-panel input:** Enter your insights, paste context (articles, research), and specify a writing style.
