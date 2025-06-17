@@ -170,7 +170,7 @@ function App() {
               <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                 <span className="article-heading">Article</span>
               </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                 {loading
                   ? <span style={{ display: 'flex', alignItems: 'center', color: '#fbbf24', fontWeight: 600, marginBottom: '6px' }}>
                       <svg className="spinner" width="18" height="18" viewBox="0 0 50 50" style={{ marginRight: '0.5em' }}>
