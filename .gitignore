@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+backend/venv/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+backend.log
+
+# macOS
+.DS_Store
+
+# Taskmaster/AI/other
+.taskmaster/
