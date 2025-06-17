@@ -27,8 +27,7 @@ Before running the setup script, complete these steps:
    ./start.sh
    ```
 
-- The backend will be available at [http://localhost:8000](http://localhost:8000)
-- The frontend will be available at [http://localhost:3000](http://localhost:3000)
+- UI is available at [http://localhost:3000](http://localhost:3000)
 
 ## Features
 - **Three-panel input:** Enter your insights, paste context (articles, research), and specify a writing style.
