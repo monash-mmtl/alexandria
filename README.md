@@ -1,4 +1,4 @@
-# Alexandria
+# 📜 Alexandria
 
 Alexandria is an AI-powered writing tool designed to help you generate high-quality articles from your insights, context, and preferred writing style. The app features a modern, responsive interface with a three-panel editor and a live article preview. Built with a React frontend and a Python FastAPI backend, Alexandria streamlines the process of turning your ideas into polished written content.
 
